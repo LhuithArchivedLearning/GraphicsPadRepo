@@ -1,0 +1,4 @@
+﻿  MeWidget.cpp
+c:\graphics\graphicspad\meglwindow.h(9): warning C4099: 'MyModel': type name first seen using 'struct' now seen using 'class'
+  c:\graphics\graphicspad\mymodel.h(4): note: see declaration of 'MyModel'
+  GraphicsPad.vcxproj -> C:\Graphics\GraphicsPad\Debug\GraphicsPad.exe
